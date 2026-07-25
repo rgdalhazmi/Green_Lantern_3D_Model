@@ -1,6 +1,5 @@
 # Green Lantern 3D Logo Design
 
-A 3D model of the Green Lantern emblem, created using Onshape.
 
 ## 🛠️ Project Overview
 This project is a 3D CAD design inspired by the iconic Green Lantern logo. I picked the logo image, estimated its dimensions, and created the 3D model in Onshape with custom cuts and extrusion thickness.
